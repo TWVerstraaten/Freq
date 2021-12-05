@@ -1,0 +1,5 @@
+/cmake*
+/bin/
+/songs/
+/.clang-format
+/.idea
